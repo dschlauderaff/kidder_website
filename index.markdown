@@ -5,7 +5,7 @@
 # layout: home
 ---
 
-![serene mountain lake](/assets/mountain_lake.jpg)
+![serene mountain lake](assets/mountain_lake.jpg)
 
 <center>Dr. Kidder has retired from his practice as of January 2023. This website is for medical record requests only. Use the form below to send a request. Please include a good contact phone number.</center>
 
@@ -32,5 +32,5 @@
    </form>
 </section>
 
-<script type="text/javascript" src="/assets/js/jquery.min.js" ></script>
-<script type="text/javascript" src="/assets/js/custom.js"></script>
+<script type="text/javascript" src="assets/js/jquery.min.js" ></script>
+<script type="text/javascript" src="assets/js/custom.js"></script>
